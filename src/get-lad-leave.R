@@ -323,6 +323,7 @@ tmp$gapci <- paste0("(",
 
 tmp <- tmp[,c("Counting.Officer", "meanremain", "remainci", "meanleave", "leaveci", "meangap", "gapci")]
 names(tmp) <- c("Area","Remain","90% CI", "Leave", "90% CI", "Gap","90% CI")
+write.csv(tmp, file ="data/results.csv", row.names = FALSE)
 tmp <- tmp[1:5,]
 
 grid.table(tmp, rows = NULL)
