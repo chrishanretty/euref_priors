@@ -1,0 +1,401 @@
+Counting.Officer,Region,Estimated.time.for.completing.the.verification,Estimated.time.for.completing.the.count,Datetime,GSSCode,MatchName
+Epping Forest,Eastern,2.00am , 3.30am,‘2016-06-24 03:30:00,E07000072,Epping Forest
+West Tyrone,Northern Ireland,11:30pm,1:00am,2016-06-24 01:00:00,NA,NA
+Belfast East,Northern Ireland,12:00am,1:15am,‘2016-06-24 01:15:00,NA,NA
+Belfast South,Northern Ireland,12:00am,1:15am,‘2016-06-24 01:15:00,NA,NA
+Belfast West,Northern Ireland,11:45pm,1:15am,‘2016-06-24 01:15:00,NA,NA
+Belfast North,Northern Ireland,12:15am,1:30am,‘2016-06-24 01:30:00,NA,NA
+Lagan Valley,Northern Ireland,12:45am,1:30am,‘2016-06-24 01:30:00,NA,NA
+North Down,Northern Ireland,12:15am,1:30am,‘2016-06-24 01:30:00,NA,NA
+Strangford,Northern Ireland,12:15am,1:30am,‘2016-06-24 01:30:00,E07000197,Stafford
+Hartlepool,North East,11.30pm,1.00 -1.30am,‘2016-06-24 01:30:00,E06000001,Hartlepool
+Newcastle upon Tyne,North East,11.00pm,1.00am,2016-06-24 01:00:00,E08000021,Newcastle upon Tyne
+Oldham,North West,12.00am,1.00am,2016-06-24 01:00:00,E08000004,Oldham
+Swindon,South West,12.00am,1.00am,2016-06-24 01:00:00,E06000030,Swindon
+Islington,London,11.30pm-12.30am ,1.30-3.00am,2016-06-24 03:00:00,E09000019,Islington
+Eilean Siar,Scotland,1.00am,1.30am,‘2016-06-24 01:30:00,S12000013,Comhairle nan Eilean Siar
+Merthyr Tydfil,Wales,12.00am ,1.30am,‘2016-06-24 01:30:00,W06000024,Merthyr Tydfil
+North Hertfordshire,Eastern,11.30pm,1.30am,‘2016-06-24 01:30:00,E07000099,North Hertfordshire
+Salford,North West,10:00pm-12:00am,1.30am,‘2016-06-24 01:30:00,E08000006,Salford
+Stirling,Scotland,12.00am,1.30am,‘2016-06-24 01:30:00,S12000030,Stirling
+Stockport,North West,12.30am ,1.30am,‘2016-06-24 01:30:00,E08000007,Stockport
+Wigan,North West,1.30am ,1.30am,‘2016-06-24 01:30:00,E08000010,Wigan
+Isles of Scilly,South West,12.00am ,1.30am ,‘2016-06-24 01:30:00,E06000053,Isles of Scilly
+Denbighshire,Wales,12.00am ,1.45am,‘2016-06-24 01:45:00,W06000004,Denbighshire
+Foyle,Northern Ireland,11pm,12:30am,2016-06-24 00:30:00,NA,NA
+Sunderland,North East,11.30pm,12.30am,2016-06-24 00:30:00,E08000024,Sunderland
+Wandsworth,London,11.30pm  ,12.30am,2016-06-24 00:30:00,E09000032,Wandsworth
+City of London,London,11.30pm,12.45am,2016-06-24 00:45:00,E09000001,City of London
+North Antrim,Northern Ireland,12:30am,2:00am,2016-06-24 02:00:00,NA,NA
+Upper Bann,Northern Ireland,12:30am,2:00am,2016-06-24 02:00:00,NA,NA
+East Antrim,Northern Ireland,12:30am,2:30am,2016-06-24 02:30:00,NA,NA
+South Antrim,Northern Ireland,12:30am,2:30am,2016-06-24 02:30:00,NA,NA
+Blaenau Gwent,Wales,12.30am,2.00am,2016-06-24 02:00:00,W06000019,Blaenau Gwent
+Clackmannanshire,Scotland,12.30am,2.00am,2016-06-24 02:00:00,S12000005,Clackmannanshire
+Dover,South Eastern,12.30am,2.00am,2016-06-24 02:00:00,E07000108,Dover
+Ealing,London,12.15am,2.00am,2016-06-24 02:00:00,E09000009,Ealing
+Ipswich,Eastern,12.00am ,2.00am,2016-06-24 02:00:00,E07000202,Ipswich
+Malvern Hills,West Midlands,12.30am,2.00am,2016-06-24 02:00:00,E07000235,Malvern Hills
+Neath Port Talbot,Wales,12.00am ,2.00am,2016-06-24 02:00:00,W06000012,Neath Port Talbot
+North Tyneside,North East,12.30am,2.00am,2016-06-24 02:00:00,E08000022,North Tyneside
+North Warwickshire,West Midlands,12.30am,2.00am,2016-06-24 02:00:00,E07000218,North Warwickshire
+Nuneaton and Bedworth,West Midlands,12.00am,2.00am,2016-06-24 02:00:00,E07000219,Nuneaton and Bedworth
+Oxford,South Eastern,12.00am,2.00am,2016-06-24 02:00:00,E07000178,Oxford
+Richmondshire,Yorkshire & Humber,12.00am,2.00am,2016-06-24 02:00:00,E07000166,Richmondshire
+Sandwell,West Midlands,12.30am,2.00am,2016-06-24 02:00:00,E08000028,Sandwell
+Shetland Islands,Scotland,1.00am,2.00am,2016-06-24 02:00:00,S12000027,Shetland Islands
+South Lanarkshire,Scotland,12.00am,2.00am,2016-06-24 02:00:00,S12000029,South Lanarkshire
+South Norfolk,Eastern,12.30am,2.00am,2016-06-24 02:00:00,E07000149,South Norfolk
+Tamworth,West Midlands,12.30am,2.00am,2016-06-24 02:00:00,E07000199,Tamworth
+Wrexham,Wales,12.30am,2.00am,2016-06-24 02:00:00,W06000006,Wrexham
+Basildon,Eastern,12.30am,2.00am ,2016-06-24 02:00:00,E07000066,Basildon
+Hart,South Eastern,12.00am ,2.00am ,2016-06-24 02:00:00,E07000089,Hart
+Westminster,London,12.30am,2.00am ,2016-06-24 02:00:00,E09000033,Westminster
+South Tyneside,North East,12.00am,2.00am  ,2016-06-24 02:00:00,E08000023,South Tyneside
+Gibraltar,South West,"12.00am (Gibraltar
+time)",2.00am (Gibraltar time),NA,NA,NA
+East Ayrshire,Scotland,12.15am,2.15am,2016-06-24 02:15:00,S12000008,East Ayrshire
+Falkirk,Scotland,1.00am,2.30 - 3.00am,2016-06-24 03:00:00,S12000014,Falkirk
+Castle Point,Eastern,1.00 am,2.30 am,2016-06-24 02:30:00,E07000069,Castle Point
+Merton,London,1.00am ,2.30 am,2016-06-24 02:30:00,E09000024,Merton
+Wellingborough,East Midlands,12:00am,2.30- 3.00am,2016-06-24 03:00:00,E07000156,Wellingborough
+Oadby & Wigston,East Midlands,12.30-1.00am ,2.30-3.00am,2016-06-24 03:00:00,E07000135,Oadby and Wigston
+Barking & Dagenham,London,12.00am,2.30am,2016-06-24 02:30:00,E09000002,Barking and Dagenham
+Barrow-in-Furness,North West,1.00am,2.30am,2016-06-24 02:30:00,E07000027,Barrow-in-Furness
+Broxbourne,Eastern,12.30am,2.30am,2016-06-24 02:30:00,E07000095,Broxbourne
+Caerphilly,Wales,1.30am,2.30am,2016-06-24 02:30:00,W06000018,Caerphilly
+Conwy,Wales,12.00am,2.30am,2016-06-24 02:30:00,W06000003,Conwy
+Crawley,South Eastern,12.30am,2.30am,2016-06-24 02:30:00,E07000226,Crawley
+Dundee City,Scotland,12.30am,2.30am,2016-06-24 02:30:00,S12000042,Dundee City
+Harlow,Eastern,12.30am,2.30am,2016-06-24 02:30:00,E07000073,Harlow
+Havant,South Eastern,12.30am,2.30am,2016-06-24 02:30:00,E07000090,Havant
+Hertsmere,Eastern,12.30am,2.30am,2016-06-24 02:30:00,E07000098,Hertsmere
+High Peak,East Midlands,12.30am,2.30am,2016-06-24 02:30:00,E07000037,High Peak
+Hyndburn,North West,1.00am,2.30am,2016-06-24 02:30:00,E07000120,Hyndburn
+Isle of Anglesey,Wales,12.30am,2.30am,2016-06-24 02:30:00,W06000001,Anglesey
+Lambeth,London,1.00am,2.30am,2016-06-24 02:30:00,E09000022,Lambeth
+Lincoln,East Midlands,12.00am ,2.30am,2016-06-24 02:30:00,E07000138,Lincoln
+North Dorset,South West,12.30am,2.30am,2016-06-24 02:30:00,E07000050,North Dorset
+North Lanarkshire,Scotland,12.30am ,2.30am,2016-06-24 02:30:00,S12000044,North Lanarkshire
+Ribble Valley,North West,1.00am,2.30am,2016-06-24 02:30:00,E07000124,Ribble Valley
+Rugby,West Midlands,12.30am,2.30am,2016-06-24 02:30:00,E07000220,Rugby
+Rushmoor,South Eastern,1.00am,2.30am,2016-06-24 02:30:00,E07000092,Rushmoor
+South Lakeland,North West,1.30am,2.30am,2016-06-24 02:30:00,E07000031,South Lakeland
+St. Helens,North West,11.30pm,2.30am,2016-06-24 02:30:00,E08000013,St. Helens
+Staffordshire Moorlands,West Midlands,12.30am,2.30am,2016-06-24 02:30:00,E07000198,Staffordshire Moorlands
+Swansea,Wales,12.00am,2.30am,2016-06-24 02:30:00,W06000011,Swansea
+Woking,South Eastern,1.00am,2.30am,2016-06-24 02:30:00,E07000217,Woking
+Angus,Scotland,12.30am,2.30am ,2016-06-24 02:30:00,S12000041,Angus
+Darlington,North East,12:30am ,2.30am ,2016-06-24 02:30:00,E06000005,Darlington
+Watford,Eastern,2.00am,3-.00-4.00am,2016-06-24 04:00:00,E07000103,Watford
+East Londonderry,Northern Ireland,1:30am,3:00am,2016-06-24 03:00:00,NA,NA
+Orkney Islands,Scotland,2:00am,3:00am,2016-06-24 03:00:00,S12000023,Orkney Islands
+Corby,East Midlands,1.00-1.30am ,3:30- 4.00am,2016-06-24 04:00:00,E07000150,Corby
+Fermanagh and South Tyrone,Northern Ireland,2:15am,3:30am,2016-06-24 03:30:00,NA,NA
+Newry and Armagh,Northern Ireland,1:45am,3:30am,2016-06-24 03:30:00,NA,NA
+South Down,Northern Ireland,2:15am,3:30am,2016-06-24 03:30:00,E07000044,South Hams
+Sutton,London,11.30pm - 12.00am,3.00-3.30am,2016-06-24 03:30:00,E09000029,Sutton
+Tandridge,South Eastern,1.00-1.30am,3.00-3.30am,2016-06-24 03:30:00,E07000215,Tandridge
+Telford & Wrekin,West Midlands,1.00-1.30am,3.00-3.30am,2016-06-24 03:30:00,E06000020,Telford and Wrekin
+Hammersmith & Fulham,London,1.00-1.30am ,3.00-3.30am ,2016-06-24 03:30:00,E09000013,Hammersmith and Fulham
+Gateshead,North East,1.30am,3.00-4.00am,2016-06-24 04:00:00,E08000037,Gateshead
+Tower Hamlets,London,1.00-1.30am,3.00-4.00am,2016-06-24 04:00:00,E09000030,Tower Hamlets
+Tunbridge Wells,South Eastern,1.00am,3.00-4.00am,2016-06-24 04:00:00,E07000116,Tunbridge Wells
+Worcester,West Midlands,2.00am,3.00-4.00am,2016-06-24 04:00:00,E07000237,Worcester
+Basingstoke & Deane,South Eastern,12.00am ,3.00-4.00am ,2016-06-24 04:00:00,E07000084,Basingstoke and Deane
+Harrow,London,1.00am ,3.00-4.00am ,2016-06-24 04:00:00,E09000015,Harrow
+Thurrock,Eastern,11.30pm,3.00-4.00am ,2016-06-24 04:00:00,E06000034,Thurrock
+Barnsley,Yorkshire & Humber,1.00am,3.00am,2016-06-24 03:00:00,E08000016,Barnsley
+Bolton,North West,12.30am,3.00am,2016-06-24 03:00:00,E08000001,Bolton
+Boston,East Midlands,12.00am.,3.00am,2016-06-24 03:00:00,E07000136,Boston
+Bracknell Forest,South Eastern,12.30am,3.00am,2016-06-24 03:00:00,E06000036,Bracknell Forest
+Bridgend,Wales,1.00am,3.00am,2016-06-24 03:00:00,W06000013,Bridgend
+Bury,North West,12.30am,3.00am,2016-06-24 03:00:00,E08000002,Bury
+Cambridge,Eastern,1.00am,3.00am,2016-06-24 03:00:00,E07000008,Cambridge
+Camden,London,1.00am,3.00am,2016-06-24 03:00:00,E09000007,Camden
+Cannock Chase,West Midlands,12.30am,3.00am,2016-06-24 03:00:00,E07000192,Cannock Chase
+Charnwood,East Midlands,1.00am ,3.00am,2016-06-24 03:00:00,E07000130,Charnwood
+Chelmsford,Eastern,12.30am,3.00am,2016-06-24 03:00:00,E07000070,Chelmsford
+Chesterfield,East Midlands,1.00am,3.00am,2016-06-24 03:00:00,E07000034,Chesterfield
+Chorley,North West,1.00am,3.00am,2016-06-24 03:00:00,E07000118,Chorley
+Colchester,Eastern,1.00am,3.00am,2016-06-24 03:00:00,E07000071,Colchester
+Copeland,North West,1.00am,3.00am,2016-06-24 03:00:00,E07000029,Copeland
+Dacorum,Eastern,12.00am ,3.00am,2016-06-24 03:00:00,E07000096,Dacorum
+Durham,North East,1.00am,3.00am,2016-06-24 03:00:00,E06000047,County Durham
+East Lothian,Scotland,1.00am,3.00am,2016-06-24 03:00:00,S12000010,East Lothian
+Eastleigh,South Eastern,1.00am,3.00am,2016-06-24 03:00:00,E07000086,Eastleigh
+Enfield,London,1.00am,3.00am,2016-06-24 03:00:00,E09000010,Enfield
+Epsom and Ewell,South Eastern,1.00am,3.00am,2016-06-24 03:00:00,E07000208,Epsom and Ewell
+Exeter,South West,1.00am,3.00am,2016-06-24 03:00:00,E07000041,Exeter
+Fylde,North West,1.30am,3.00am,2016-06-24 03:00:00,E07000119,Fylde
+Gosport,South Eastern,12.30am,3.00am,2016-06-24 03:00:00,E07000088,Gosport
+Gwynedd,Wales,2.00am,3.00am,2016-06-24 03:00:00,W06000002,Gwynedd
+Haringey,London,1.30am,3.00am,2016-06-24 03:00:00,E09000014,Haringey
+Hastings,South Eastern ,1.00am,3.00am,2016-06-24 03:00:00,E07000062,Hastings
+Inverclyde,Scotland,12.00am ,3.00am,2016-06-24 03:00:00,S12000018,Inverclyde
+Knowsley,North West,1.00am,3.00am,2016-06-24 03:00:00,E08000011,Knowsley
+Maidstone,South Eastern,12.00am ,3.00am,2016-06-24 03:00:00,E07000110,Maidstone
+Mid Suffolk,Eastern,2.00am,3.00am,2016-06-24 03:00:00,E07000203,Mid Suffolk
+Midlothian,Scotland,12.45am,3.00am,2016-06-24 03:00:00,S12000019,Midlothian
+Milton-Keynes,South Eastern,12.30am,3.00am,2016-06-24 03:00:00,E06000042,Milton Keynes
+Monmouthshire,Wales,12.30am,3.00am,2016-06-24 03:00:00,W06000021,Monmouthshire
+Moray,Scotland,1.30am,3.00am,2016-06-24 03:00:00,S12000020,Moray
+New Forest,South Eastern,1.00am,3.00am,2016-06-24 03:00:00,E07000091,New Forest
+Newham,London,1.00am,3.00am,2016-06-24 03:00:00,E09000025,Newham
+North Devon,South West,1.45am,3.00am,2016-06-24 03:00:00,E07000043,North Devon
+North East Lincolnshire,Yorkshire & Humber,1.00am,3.00am,2016-06-24 03:00:00,E06000012,North East Lincolnshire
+North West Leicestershire,East Midlands,1.00am,3.00am,2016-06-24 03:00:00,E07000134,North West Leicestershire
+Pendle,North West,1.00am,3.00am,2016-06-24 03:00:00,E07000122,Pendle
+Perth and Kinross,Scotland,1.00am,3.00am,2016-06-24 03:00:00,S12000024,Perth and Kinross
+Peterborough,Eastern,1.00am,3.00am,2016-06-24 03:00:00,E06000031,Peterborough
+Renfrewshire,Scotland,1.00am,3.00am,2016-06-24 03:00:00,S12000038,Renfrewshire
+Rochdale,North West,1.00am,3.00am,2016-06-24 03:00:00,E08000005,Rochdale
+Sedgemoor,South West,1.00am,3.00am,2016-06-24 03:00:00,E07000188,Sedgemoor
+Shepway,South Eastern,12.00am,3.00am,2016-06-24 03:00:00,E07000112,Shepway
+South Bucks,South Eastern,12.00am,3.00am,2016-06-24 03:00:00,E07000006,South Bucks
+Southend-on-Sea,Eastern,12.30am,3.00am,2016-06-24 03:00:00,E06000033,Southend-on-Sea
+Southwark,London,1.00am,3.00am,2016-06-24 03:00:00,E09000028,Southwark
+St Albans,Eastern,1.00am,3.00am,2016-06-24 03:00:00,E07000240,St Albans
+Stratford-on-Avon,West Midlands,1.00am,3.00am,2016-06-24 03:00:00,E07000221,Stratford-on-Avon
+Thanet,South Eastern,1.00am,3.00am,2016-06-24 03:00:00,E07000114,Thanet
+Torbay,South West,1.00am,3.00am,2016-06-24 03:00:00,E06000027,Torbay
+Torfaen,Wales,12.30am,3.00am,2016-06-24 03:00:00,W06000020,Torfaen
+Uttlesford,Eastern,1.30am,3.00am,2016-06-24 03:00:00,E07000077,Uttlesford
+Warwick,West Midlands,1.30am,3.00am,2016-06-24 03:00:00,E07000222,Warwick
+West Berkshire,South Eastern,12.30am,3.00am,2016-06-24 03:00:00,E06000037,West Berkshire
+West Dunbartonshire,Scotland,1.00am,3.00am,2016-06-24 03:00:00,S12000039,West Dunbartonshire
+West Oxfordshire,South Eastern,1.00am ,3.00am,2016-06-24 03:00:00,E07000181,West Oxfordshire
+West Somerset,South West,1.00am,3.00am,2016-06-24 03:00:00,E07000191,West Somerset
+Weymouth,South West,1.00am,3.00am,2016-06-24 03:00:00,E07000053,Weymouth and Portland
+Wyre,North West,1.00am,3.00am,2016-06-24 03:00:00,E07000128,Wyre
+Babergh,Eastern,2.00am,3.00am ,2016-06-24 03:00:00,E07000200,Babergh
+East Renfrewshire,Scotland,12.30am ,3.00am ,2016-06-24 03:00:00,S12000011,East Renfrewshire
+North Ayrshire,Scotland,1.00am ,3.00am ,2016-06-24 03:00:00,S12000021,North Ayrshire
+Reading,South Eastern,1.00am ,3.00am ,2016-06-24 03:00:00,E06000038,Reading
+Stevenage,Eastern,12.30am ,3.00am ,2016-06-24 03:00:00,E07000243,Stevenage
+Wokingham,South Eastern,2.00am,3.00am ,2016-06-24 03:00:00,E06000041,Wokingham
+Wycombe,South Eastern ,1.30am,3.00am ,2016-06-24 03:00:00,E07000007,Wycombe
+Runnymede,South Eastern,1.00am  ,3.00am  ,2016-06-24 03:00:00,E07000212,Runnymede
+Trafford,North West,1.00am,3.00am   ,2016-06-24 03:00:00,E08000009,Trafford
+Fife,Scotland,1.30-2.00am,3.30-4.00am,2016-06-24 04:00:00,S12000015,Fife
+East Dunbarton,Scotland,12.00-1.30am,3.30-4.30am,2016-06-24 04:30:00,S12000045,East Dunbartonshire
+Aberdeen City,Scotland,3.00am,3.30am,2016-06-24 03:30:00,S12000033,Aberdeen City
+Bournemouth,South West,12.30am,3.30am,2016-06-24 03:30:00,E06000028,Bournemouth
+Brent,London,1.30am,3.30am,2016-06-24 03:30:00,E09000005,Brent
+Burnley,North West,1.00am,3.30am,2016-06-24 03:30:00,E07000117,Burnley
+Carlisle,North West,1.00am,3.30am,2016-06-24 03:30:00,E07000028,Carlisle
+Carmarthenshire,Wales,1.00am,3.30am,2016-06-24 03:30:00,W06000010,Carmarthenshire
+Dartford,South Eastern,12.45am ,3.30am,2016-06-24 03:30:00,E07000107,Dartford
+Dumfries & Galloway,Scotland,1.30am,3.30am,2016-06-24 03:30:00,S12000006,Dumfries and Galloway
+"Edinburgh, City of",Scotland,1.30am,3.30am,2016-06-24 03:30:00,S12000036,City of Edinburgh
+Erewash,East Midlands,1.30am,3.30am,2016-06-24 03:30:00,E07000036,Erewash
+Forest of Dean,South West,1.30am,3.30am,2016-06-24 03:30:00,E07000080,Forest of Dean
+Gedling,East Midlands,1.00am,3.30am,2016-06-24 03:30:00,E07000173,Gedling
+Greenwich,London,1.00am,3.30am,2016-06-24 03:30:00,E09000011,Greenwich
+Halton,North West,1.00am,3.30am,2016-06-24 03:30:00,E06000006,Halton
+Kingston upon Hull,Yorkshire & Humber,1.30am,3.30am,2016-06-24 03:30:00,E06000010,"Kingston upon Hull, City of"
+Melton,East Midlands,1.00am,3.30am,2016-06-24 03:30:00,E07000133,Melton
+Newark and Sherwood,East Midlands,1.45am,3.30am,2016-06-24 03:30:00,E07000175,Newark and Sherwood
+Newport,Wales,1.00am,3.30am,2016-06-24 03:30:00,W06000022,Newport
+Portsmouth,South Eastern,1.00am,3.30am,2016-06-24 03:30:00,E06000044,Portsmouth
+Powys,Wales,1.30am,3.30am,2016-06-24 03:30:00,W06000023,Powys
+Preston,North West,1.30am,3.30am,2016-06-24 03:30:00,E07000123,Preston
+Purbeck,South West,12.30am,3.30am,2016-06-24 03:30:00,E07000051,Purbeck
+Redbridge,London,12.00am,3.30am,2016-06-24 03:30:00,E09000026,Redbridge
+Redcar & Cleveland,North East,1.00am,3.30am,2016-06-24 03:30:00,E06000003,Redcar and Cleveland
+Rhondda Cynon Taf,Wales,1.30am,3.30am,2016-06-24 03:30:00,W06000016,"Rhondda, Cynon, Taff"
+Rochford,Eastern,1.00am,3.30am,2016-06-24 03:30:00,E07000075,Rochford
+Rossendale,North West,1.30am,3.30am,2016-06-24 03:30:00,E07000125,Rossendale
+Scarborough,Yorkshire & Humber,12.30am,3.30am,2016-06-24 03:30:00,E07000168,Scarborough
+South Derbyshire,East Midlands,1.30am,3.30am,2016-06-24 03:30:00,E07000039,South Derbyshire
+South Hams,South West,1.30am,3.30am,2016-06-24 03:30:00,E07000044,South Hams
+South Somerset,South West,1.30am,3.30am,2016-06-24 03:30:00,E07000189,South Somerset
+Suffolk Coastal,Eastern,1.00am,3.30am,2016-06-24 03:30:00,E07000205,Suffolk Coastal
+Surrey Heath,South Eastern,2.00am,3.30am,2016-06-24 03:30:00,E07000214,Surrey Heath
+Three Rivers,Eastern,12.30am,3.30am,2016-06-24 03:30:00,E07000102,Three Rivers
+Walsall,West Midlands,1.00am,3.30am,2016-06-24 03:30:00,E08000030,Walsall
+Barnet,London,2.00am ,3.30am ,2016-06-24 03:30:00,E09000003,Barnet
+Cheltenham,South West,12:45am,3.30am ,2016-06-24 03:30:00,E07000078,Cheltenham
+Dudley,West Midlands,12.30am,3.30am ,2016-06-24 03:30:00,E08000027,Dudley
+Flintshire,Wales,1.00am ,3.30am ,2016-06-24 03:30:00,W06000005,Flintshire
+King's Lynn & West Norfolk,Eastern,1.30am ,3.30am ,2016-06-24 03:30:00,E07000146,King`s Lynn and West Norfolk
+Lancaster,North West,12.30am,3.30am ,2016-06-24 03:30:00,E07000121,Lancaster
+West Lothian,Scotland,12.45am,3.30am ,2016-06-24 03:30:00,S12000040,West Lothian
+Taunton Deane,South West,1.30am,3.30pm,2016-06-24 03:30:00,E07000190,Taunton Deane
+Mid Ulster,Northern Ireland,2:30am,4:00am,2016-06-24 04:00:00,NA,NA
+North East Derbyshire,East Midlands,1:30am,4:30am ,2016-06-24 04:30:00,E07000038,North East Derbyshire
+Welwyn Hatfield,South Eastern,1:50am,4:30am ,2016-06-24 04:30:00,E07000241,Welwyn Hatfield
+Ashfield,East Midlands,1.30-2.00am,4.00-5.00am,2016-06-24 05:00:00,E07000170,Ashfield
+Eden,North West,2.00-3.00am,4.00-5.00am,2016-06-24 05:00:00,E07000030,Eden
+Middlesbrough,North East,12.00-1.00am,4.00-5.00am,2016-06-24 05:00:00,E06000002,Middlesbrough
+Northumberland,North East,2.00-3.00am,4.00-5.00am,2016-06-24 05:00:00,E06000057,Northumberland
+Bassetlaw,East Midlands,1.00-2.00am ,4.00-5.00am ,2016-06-24 05:00:00,E07000171,Bassetlaw
+Torridge,South West,2.00am,4.00-6.00am ,2016-06-24 06:00:00,E07000046,Torridge
+Derbyshire Dales,East Midlands,2.00am,4.00-7.00am,2016-06-24 07:00:00,E07000035,Derbyshire Dales
+Allerdale,North West,1.00am,4.00am,2016-06-24 04:00:00,E07000026,Allerdale
+Argyll & Bute,Scotland,2.30am,4.00am,2016-06-24 04:00:00,S12000035,Argyll and Bute
+Ashford,South Eastern,2.00am,4.00am,2016-06-24 04:00:00,E07000105,Ashford
+Bedford,Eastern,2.00am,4.00am,2016-06-24 04:00:00,E06000055,Bedford
+Birmingham,West Midlands,2.00am,4.00am,2016-06-24 04:00:00,E08000025,Birmingham
+Blackburn,North West,1.30am,4.00am,2016-06-24 04:00:00,E06000009,Blackpool
+Breckland,Eastern,2.00am,4.00am,2016-06-24 04:00:00,E07000143,Breckland
+Brentwood,Eastern,1.00am,4.00am,2016-06-24 04:00:00,E07000068,Brentwood
+Brighton & Hove,South Eastern,2.00am,4.00am,2016-06-24 04:00:00,E06000043,Brighton and Hove
+Broadland,Eastern,1.30 am,4.00am,2016-06-24 04:00:00,E07000144,Broadland
+Bromley,London,2.00am,4.00am,2016-06-24 04:00:00,E09000006,Bromley
+Bromsgrove,West Midlands,2.00am,4.00am,2016-06-24 04:00:00,E07000234,Bromsgrove
+Cardiff,Wales,1.30am,4.00am,2016-06-24 04:00:00,W06000015,Cardiff
+Ceredigion,Wales,1.30am,4.00am,2016-06-24 04:00:00,W06000008,Ceredigion
+Chiltern,South Eastern,2.00am,4.00am,2016-06-24 04:00:00,E07000005,Chiltern
+Craven,Yorkshire & Humber,1.00am,4.00am,2016-06-24 04:00:00,E07000163,Craven
+Croydon,London,1.00am ,4.00am,2016-06-24 04:00:00,E09000008,Croydon
+Daventry,East Midlands,1.30am,4.00am,2016-06-24 04:00:00,E07000151,Daventry
+Doncaster,Yorkshire & Humber,1.00am,4.00am,2016-06-24 04:00:00,E08000017,Doncaster
+East Hampshire,South Eastern,1.00am,4.00am,2016-06-24 04:00:00,E07000085,East Hampshire
+East Hertfordshire,Eastern,1.00am,4.00am,2016-06-24 04:00:00,E07000242,East Hertfordshire
+East Riding of Yorkshire,Yorkshire & Humber,1.00am,4.00am,2016-06-24 04:00:00,E06000011,East Riding of Yorkshire
+East Staffordshire,West Midlands,1.00am,4.00am,2016-06-24 04:00:00,E07000193,East Staffordshire
+Eastbourne,South Eastern,1.00am,4.00am,2016-06-24 04:00:00,E07000061,Eastbourne
+Elmbridge,South Eastern,2.00am,4.00am,2016-06-24 04:00:00,E07000207,Elmbridge
+Fareham,South Eastern,1.00am,4.00am,2016-06-24 04:00:00,E07000087,Fareham
+Forest Heath,Eastern,2.00am,4.00am,2016-06-24 04:00:00,E07000201,Forest Heath
+Gloucester,South West,2.00am,4.00am,2016-06-24 04:00:00,E07000081,Gloucester
+Hambleton,Yorkshire & Humber,1.00am,4.00am,2016-06-24 04:00:00,E07000164,Hambleton
+Harrogate,Yorkshire & Humber,1.00am ,4.00am,2016-06-24 04:00:00,E07000165,Harrogate
+Havering,London,1.00am,4.00am,2016-06-24 04:00:00,E09000016,Havering
+Huntingdonshire,Eastern,2.00am,4.00am,2016-06-24 04:00:00,E07000011,Huntingdonshire
+Lewes,South Eastern,2.00am,4.00am,2016-06-24 04:00:00,E07000063,Lewes
+Lichfield,West Midlands,1.00am,4.00am,2016-06-24 04:00:00,E07000194,Lichfield
+Mansfield,East Midlands,1.45am,4.00am,2016-06-24 04:00:00,E07000174,Mansfield
+Mendip,South West,2.30am,4.00am,2016-06-24 04:00:00,E07000187,Mendip
+Mid Devon,South West,1.00am,4.00am,2016-06-24 04:00:00,E07000042,Mid Devon
+Mid Sussex,South Eastern,1.30am,4.00am,2016-06-24 04:00:00,E07000228,Mid Sussex
+Mole Valley,South Eastern,1.00am,4.00am,2016-06-24 04:00:00,E07000210,Mole Valley
+Newcastle-under-Lyme,West Midlands,1.30am,4.00am,2016-06-24 04:00:00,E07000195,Newcastle-under-Lyme
+Norwich,Eastern,1.00am,4.00am,2016-06-24 04:00:00,E07000148,Norwich
+Pembrokeshire,Wales,1.00am,4.00am,2016-06-24 04:00:00,W06000009,Pembrokeshire
+Redditch,West Midlands,2.00am,4.00am,2016-06-24 04:00:00,E07000236,Redditch
+Rother,South Eastern,1.00am,4.00am,2016-06-24 04:00:00,E07000064,Rother
+Rushcliffe,East Midlands,2.00am,4.00am,2016-06-24 04:00:00,E07000176,Rushcliffe
+Ryedale,Yorkshire & Humber,1.00am,4.00am,2016-06-24 04:00:00,E07000167,Ryedale
+Scottish Borders,Scotland,1.30am,4.00am,2016-06-24 04:00:00,S12000026,Scottish Borders
+Selby,Yorkshire & Humber,1.00am,4.00am,2016-06-24 04:00:00,E07000169,Selby
+Sevenoaks,South Eastern,1.00am,4.00am,2016-06-24 04:00:00,E07000111,Sevenoaks
+South Cambridgeshire,Eastern,1.30am,4.00am,2016-06-24 04:00:00,E07000012,South Cambridgeshire
+South Ribble,North West ,2.00am,4.00am,2016-06-24 04:00:00,E07000126,South Ribble
+South Staffordshire,West Midlands,2.00am,4.00am,2016-06-24 04:00:00,E07000196,South Staffordshire
+Southampton,South Eastern,1.30am,4.00am,2016-06-24 04:00:00,E06000045,Southampton
+St. Edmundsbury,Eastern,2.00am,4.00am,2016-06-24 04:00:00,E07000204,St Edmundsbury
+Stafford  ,West Midlands,1.30am,4.00am,2016-06-24 04:00:00,E07000197,Stafford
+Stoke-on-Trent,West Midlands,2.00am,4.00am,2016-06-24 04:00:00,E06000021,Stoke-on-Trent
+Stroud,South West,1.00am,4.00am,2016-06-24 04:00:00,E07000082,Stroud
+Tendring,Eastern,12.00am,4.00am,2016-06-24 04:00:00,E07000076,Tendring
+Test Valley,South Eastern,12.30am,4.00am,2016-06-24 04:00:00,E07000093,Test Valley
+The Vale of Glamorgan,Wales,1.30am,4.00am,2016-06-24 04:00:00,W06000014,The Vale of Glamorgan
+Tonbridge & Malling,South Eastern,2.00am,4.00am,2016-06-24 04:00:00,E07000115,Tonbridge and Malling
+Wakefield,Yorkshire & Humber,2.00am,4.00am,2016-06-24 04:00:00,E08000036,Wakefield
+Waltham Forest,London,12.00am ,4.00am,2016-06-24 04:00:00,E09000031,Waltham Forest
+Waverley,South Eastern,2.00am,4.00am,2016-06-24 04:00:00,E07000216,Waverley
+West Dorset,South West,2.00am,4.00am,2016-06-24 04:00:00,E07000052,West Dorset
+West Lancashire,North West,1.30am,4.00am,2016-06-24 04:00:00,E07000127,West Lancashire
+Wirral,North West,2.00am,4.00am,2016-06-24 04:00:00,E08000015,Wirral
+Wolverhampton,West Midlands,2.00am,4.00am,2016-06-24 04:00:00,E08000031,Wolverhampton
+Wyre Forest,West Midlands,1.00am,4.00am,2016-06-24 04:00:00,E07000239,Wyre Forest
+York,Yorkshire & Humber,2.00am,4.00am,2016-06-24 04:00:00,E06000014,York
+Blackpool,North West,1.00am,4.00am ,2016-06-24 04:00:00,E06000009,Blackpool
+Bolsover,East Midlands,1.00am,4.00am ,2016-06-24 04:00:00,E07000033,Bolsover
+Canterbury,South Eastern,3.00am ,4.00am ,2016-06-24 04:00:00,E07000106,Canterbury
+Lewisham,London,1.30 - 2.00am ,4.00am ,2016-06-24 04:00:00,E09000023,Lewisham
+Rotherham,Yorkshire & Humber,2.00am ,4.00am ,2016-06-24 04:00:00,E08000018,Rotherham
+Solihull,West Midlands,2.00am ,4.00am ,2016-06-24 04:00:00,E08000029,Solihull
+Swale,South Eastern,1.00am ,4.00am ,2016-06-24 04:00:00,E07000113,Swale
+Horsham,South Eastern,1.30am,4.00am  ,2016-06-24 04:00:00,E07000227,Horsham
+Kirklees,Yorkshire & Humber,2.30am,4.30-5.00am,2016-06-24 05:00:00,E08000034,Kirklees
+Aylesbury Vale,South Eastern,2.00am,4.30am,2016-06-24 04:30:00,E07000004,Aylesbury Vale
+Bexley,London,2.00am ,4.30am,2016-06-24 04:30:00,E09000004,Bexley
+Braintree,Eastern,1.00am,4.30am,2016-06-24 04:30:00,E07000067,Braintree
+Broxtowe,East Midlands,2.00am,4.30am,2016-06-24 04:30:00,E07000172,Broxtowe
+Chichester,South Eastern,1.30am,4.30am,2016-06-24 04:30:00,E07000225,Chichester
+Christchurch,South West,12.00am,4.30am,2016-06-24 04:30:00,E07000048,Christchurch
+Great Yarmouth,Eastern,1.30am,4.30am,2016-06-24 04:30:00,E07000145,Great Yarmouth
+Hackney,London,1.30am,4.30am,2016-06-24 04:30:00,E09000012,Hackney
+Isle of Wight,South Eastern,1.30am ,4.30am,2016-06-24 04:30:00,E06000046,Isle of Wight
+Kingston upon Thames,London,2.30am ,4.30am,2016-06-24 04:30:00,E09000021,Kingston upon Thames
+North Lincolnshire,Yorkshire & Humber,1.30am,4.30am,2016-06-24 04:30:00,E06000013,North Lincolnshire
+Poole,South West,2.00am,4.30am,2016-06-24 04:30:00,E06000029,Poole
+Sheffield,Yorkshire & Humber,2.30am,4.30am,2016-06-24 04:30:00,E08000019,Sheffield
+Stockton-on-Tees,North East,1.30am,4.30am,2016-06-24 04:30:00,E06000004,Stockton-on-Tees
+Teignbridge,South West,2.30am,4.30am,2016-06-24 04:30:00,E07000045,Teignbridge
+Tewkesbury,South West,3.00am,4.30am,2016-06-24 04:30:00,E07000083,Tewkesbury
+Warrington,North West,2.30am,4.30am,2016-06-24 04:30:00,E06000007,Warrington
+Wiltshire,South West,2.00am,4.30am,2016-06-24 04:30:00,E06000054,Wiltshire
+East Dorset,South West,2.00am ,4.30am ,2016-06-24 04:30:00,E07000049,East Dorset
+South Oxfordshire,South Eastern,2.00am,4.30am ,2016-06-24 04:30:00,E07000179,South Oxfordshire
+Spelthorne ,South Eastern,2.30am,4.30am ,2016-06-24 04:30:00,E07000213,Spelthorne
+Vale of White Horse,South Eastern,2.00am ,4.30am ,2016-06-24 04:30:00,E07000180,Vale of White Horse
+North Norfolk,Eastern,1.00-2.00am,5.00-6.00am,2016-06-24 06:00:00,E07000147,North Norfolk
+Reigate & Banstead,South Eastern,2.00-3.00am,5.00-6.00am,2016-06-24 06:00:00,E07000211,Reigate and Banstead
+South Gloucestershire,South West,2.00am,5.00-6.00am,2016-06-24 06:00:00,E06000025,South Gloucestershire
+Aberdeenshire,Scotland,3.00am,5.00am,2016-06-24 05:00:00,S12000034,Aberdeenshire
+Amber Valley,East Midlands,2.00- 2.30am,5.00am,2016-06-24 05:00:00,E07000032,Amber Valley
+Blaby,East Midlands,2.00am,5.00am,2016-06-24 05:00:00,E07000129,Blaby
+Bradford,Yorkshire & Humber,2.00am,5.00am,2016-06-24 05:00:00,E08000032,Bradford
+Calderdale,Yorkshire & Humber,2.00am,5.00am,2016-06-24 05:00:00,E08000033,Calderdale
+Central Bedfordshire,Eastern,2.00am,5.00am,2016-06-24 05:00:00,E06000056,Central Bedfordshire
+Cheshire West,North West,3.30am,5.00am,2016-06-24 05:00:00,E06000049,Cheshire East
+Coventry,West Midlands,2.00am,5.00am,2016-06-24 05:00:00,E08000026,Coventry
+Derby,East Midlands,2.00am,5.00am,2016-06-24 05:00:00,E06000015,Derby
+East Cambridgeshire,Eastern,2.00am,5.00am,2016-06-24 05:00:00,E07000009,East Cambridgeshire
+East Devon,South West,2.30am,5.00am,2016-06-24 05:00:00,E07000040,East Devon
+Glasgow City,Scotland,2:00 - 2:30am,5.00am,2016-06-24 05:00:00,S12000046,Glasgow City
+Gravesham,South Eastern,2.30am,5.00am,2016-06-24 05:00:00,E07000109,Gravesham
+Hounslow,London,2.00am,5.00am,2016-06-24 05:00:00,E09000018,Hounslow
+Kensington and Chelsea,London,2.00am,5.00am,2016-06-24 05:00:00,E09000020,Kensington and Chelsea
+Kettering,East Midlands,2.00am,5.00am,2016-06-24 05:00:00,E07000153,Kettering
+Leeds,Yorkshire & Humber, 2.30am,5.00am,2016-06-24 05:00:00,E08000035,Leeds
+Liverpool,North West,2.00am,5.00am,2016-06-24 05:00:00,E08000012,Liverpool
+Luton,Eastern,1.30am,5.00am,2016-06-24 05:00:00,E06000032,Luton
+Manchester,North West,2.30am,5.00am,2016-06-24 05:00:00,E08000003,Manchester
+North Kesteven,East Midlands,2.00am,5.00am,2016-06-24 05:00:00,E07000139,North Kesteven
+Richmond Upon Thames ,London,1.00am ,5.00am,2016-06-24 05:00:00,E09000027,Richmond upon Thames
+Slough,South Eastern,2.00am,5.00am,2016-06-24 05:00:00,E06000039,Slough
+South Ayrshire,Scotland,1.00am,5.00am,2016-06-24 05:00:00,S12000028,South Ayrshire
+South Holland,East Midlands,2.00am,5.00am,2016-06-24 05:00:00,E07000140,South Holland
+Tameside,North West,3.00am,5.00am,2016-06-24 05:00:00,E08000008,Tameside
+West Devon,South West,2.00am,5.00am,2016-06-24 05:00:00,E07000047,West Devon
+West Lindsey,East Midlands,2.00am,5.00am,2016-06-24 05:00:00,E07000142,West Lindsey
+Wychavon,West Midlands,1.00am,5.00am,2016-06-24 05:00:00,E07000238,Wychavon
+Highland,Scotland,3.00am ,5.00am ,2016-06-24 05:00:00,S12000017,Highland
+Hillingdon,London,2.00am,5.00am ,2016-06-24 05:00:00,E09000017,Hillingdon
+Plymouth,South West,2.00am ,5.00am ,2016-06-24 05:00:00,E06000026,Plymouth
+Cotswold,South West,3.00am,5.30am,2016-06-24 05:30:00,E07000079,Cotswold
+Fenland,Eastern,2.00am,5.30am,2016-06-24 05:30:00,E07000010,Fenland
+Guildford,South Eastern,2.30am ,5.30am,2016-06-24 05:30:00,E07000209,Guildford
+Herefordshire,West Midlands,3.00am,6:00-7:00am,2016-06-24 07:00:00,E06000019,"Herefordshire, County of"
+Nottingham,East Midlands,2.00-3.00am,6.00-7.00am ,2016-06-24 07:00:00,E06000018,Nottingham
+Bath & North East Somerset,South West,3.00am,6.00am,2016-06-24 06:00:00,E06000022,Bath and North East Somerset
+Cherwell,South Eastern,2.00am,6.00am,2016-06-24 06:00:00,E07000177,Cherwell
+Cornwall,South West,3.00am,6.00am,2016-06-24 06:00:00,E06000052,Cornwall
+East Lindsey,East Midlands,2.30am,6.00am,2016-06-24 06:00:00,E07000137,East Lindsey
+East Northamptonshire,East Midlands,2.00am,6.00am,2016-06-24 06:00:00,E07000152,East Northamptonshire
+Hinckley & Bosworth,East Midlands,1.30am,6.00am,2016-06-24 06:00:00,E07000132,Hinckley and Bosworth
+Maldon,Eastern,1.30am,6.00am,2016-06-24 06:00:00,E07000074,Maldon
+Medway,South Eastern,1.30am,6.00am,2016-06-24 06:00:00,E06000035,Medway
+Northampton,East Midlands,1.00am,6.00am,2016-06-24 06:00:00,E07000154,Northampton
+Royal Borough of Windsor and Maidenhead,South Eastern,2.00am,6.00am,2016-06-24 06:00:00,E06000040,Windsor and Maidenhead
+Rutland,East Midlands,2.00am,6.00am,2016-06-24 06:00:00,E06000017,Rutland
+Sefton,North West,4.00am,6.00am,2016-06-24 06:00:00,E08000014,Sefton
+Shropshire,West Midlands,1.30am ,6.00am,2016-06-24 06:00:00,E06000051,Shropshire
+South Kesteven,East Midlands,3.00am,6.00am,2016-06-24 06:00:00,E07000141,South Kesteven
+South Northamptonshire,East Midlands,2.00am,6.00am,2016-06-24 06:00:00,E07000155,South Northamptonshire
+Wealden,South Eastern,2.30am,6.00am,2016-06-24 06:00:00,E07000065,Wealden
+Bristol,South West,2.00am ,6.00am ,2016-06-24 06:00:00,E07000136,Boston
+Adur ,South Eastern,2.30am ,6.30am,2016-06-24 06:30:00,E07000223,Adur
+Leicester,East Midlands,3.00am,6.30am,2016-06-24 06:30:00,E06000016,Leicester
+North Somerset,South West,2.00am,6.30am,2016-06-24 06:30:00,E06000024,North Somerset
+Winchester,South Eastern,2.00am,6.30am,2016-06-24 06:30:00,E07000094,Winchester
+Worthing,South Eastern,2.30am ,6.30am,2016-06-24 06:30:00,E07000229,Worthing
+Arun,South Eastern,3.00am,7.00am,2016-06-24 07:00:00,E07000224,Arun
+Cheshire East,North West,4.00am,7.00am,2016-06-24 07:00:00,E06000049,Cheshire East
+Harborough,East Midlands,2.30am ,7.00am,2016-06-24 07:00:00,E07000131,Harborough
+Waveney,Eastern,5.00am,7.00am,2016-06-24 07:00:00,E07000206,Waveney
