@@ -216,16 +216,16 @@ inmod <- glmer(y ~ Con + UKIP +
             data = bes)
 
 ### Get a matrix of predictions
-
+nIters <- 1000
 outpreds <- predictInterval(outmod,
                             newdata = newdata,
-                            n.sims = 999,
+                            n.sims = nIters,
 							include.resid.var = FALSE,
                             returnSims = TRUE )
 
 inpreds <- predictInterval(inmod,
                             newdata = newdata,
-                            n.sims = 999,
+                            n.sims = nIters,
 							include.resid.var = FALSE,
                             returnSims = TRUE )
 
@@ -262,14 +262,13 @@ add.to.remain <- remain.tgt - wtd.remain
 leavesims <- inv.logit(attr(outpreds, "sim.results")) + add.to.leave
 remainsims <- inv.logit(attr(inpreds, "sim.results")) + add.to.remain
 
+dimnames(leavesims)[[1]] <- newdata$GSSCode
+dimnames(remainsims)[[1]] <- newdata$GSSCode
+
 leavesims <- melt(leavesims)
-names(leavesims) <- c("LA","iter","leave")
-leavesims$GSSCode <- newdata$GSSCode[leavesims$LA]
-leavesims$LA <- NULL
+names(leavesims) <- c("GSSCode","iter","leave")
 remainsims <- melt(remainsims)
-names(remainsims) <- c("LA","iter","remain")
-remainsims$GSSCode <- newdata$GSSCode[remainsims$LA]
-remainsims$LA <- NULL
+names(remainsims) <- c("GSSCode","iter","remain")
 sims <- merge(remainsims, leavesims, all = T)
 
 ### Now work out the gap between the two over iterations
@@ -327,5 +326,3 @@ write.csv(tmp, file ="data/results.csv", row.names = FALSE)
 tmp <- tmp[1:5,]
 
 grid.table(tmp, rows = NULL)
-
-
