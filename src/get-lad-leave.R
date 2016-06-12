@@ -161,7 +161,7 @@ if (nrow(aux.seat) != nrow(ep)) {
     stop("merge introduced new rows")
 }
 ## merge in region information to LAD-level data
-lad2region <- read.csv("../local_auths/lad2region.csv", header = TRUE)
+lad2region <- read.csv("data/lad2region.csv", header = TRUE)
 aux.seat <- merge(aux.seat, lad2region[,c("LAD13CD", "LAD13NM","GOR10NM")],
                   by.x = "GSSCode", 
                   by.y = "LAD13CD",
