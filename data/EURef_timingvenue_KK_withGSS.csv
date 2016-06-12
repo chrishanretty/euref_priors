@@ -7,7 +7,7 @@ Belfast West,Northern Ireland,11:45pm,1:15am,‘2016-06-24 01:15:00,NA,NA
 Belfast North,Northern Ireland,12:15am,1:30am,‘2016-06-24 01:30:00,NA,NA
 Lagan Valley,Northern Ireland,12:45am,1:30am,‘2016-06-24 01:30:00,NA,NA
 North Down,Northern Ireland,12:15am,1:30am,‘2016-06-24 01:30:00,NA,NA
-Strangford,Northern Ireland,12:15am,1:30am,‘2016-06-24 01:30:00,E07000197,Stafford
+Strangford,Northern Ireland,12:15am,1:30am,‘2016-06-24 01:30:00,NA,NA
 Hartlepool,North East,11.30pm,1.00 -1.30am,‘2016-06-24 01:30:00,E06000001,Hartlepool
 Newcastle upon Tyne,North East,11.00pm,1.00am,2016-06-24 01:00:00,E08000021,Newcastle upon Tyne
 Oldham,North West,12.00am,1.00am,2016-06-24 01:00:00,E08000004,Oldham
@@ -93,7 +93,7 @@ Orkney Islands,Scotland,2:00am,3:00am,2016-06-24 03:00:00,S12000023,Orkney Islan
 Corby,East Midlands,1.00-1.30am ,3:30- 4.00am,2016-06-24 04:00:00,E07000150,Corby
 Fermanagh and South Tyrone,Northern Ireland,2:15am,3:30am,2016-06-24 03:30:00,NA,NA
 Newry and Armagh,Northern Ireland,1:45am,3:30am,2016-06-24 03:30:00,NA,NA
-South Down,Northern Ireland,2:15am,3:30am,2016-06-24 03:30:00,E07000044,South Hams
+South Down,Northern Ireland,2:15am,3:30am,2016-06-24 03:30:00,NA,NA
 Sutton,London,11.30pm - 12.00am,3.00-3.30am,2016-06-24 03:30:00,E09000029,Sutton
 Tandridge,South Eastern,1.00-1.30am,3.00-3.30am,2016-06-24 03:30:00,E07000215,Tandridge
 Telford & Wrekin,West Midlands,1.00-1.30am,3.00-3.30am,2016-06-24 03:30:00,E06000020,Telford and Wrekin
