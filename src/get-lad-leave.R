@@ -3,7 +3,7 @@
 
 rm(list = ls())
 
-library(rio)
+library(foreign)
 library(reshape2)
 library(car)
 library(arm)
@@ -22,7 +22,7 @@ estimate  <- TRUE
 ### You'll need to download the BES data if you haven't got it
 ### See www.britishelectionstudy.com
 
-bes <- import("data/BES2015_W6_v1.2.sav")
+bes <- read.spss("data/BES2015_W6_v1.2.sav", to.data.frame = TRUE)
 lu <- read.csv("data/bes_to_gss_lu.csv")
 bes <- merge(bes, lu, all.x = T, all.y = F)
 nrow(bes)
