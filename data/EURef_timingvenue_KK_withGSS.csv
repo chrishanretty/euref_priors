@@ -1,27 +1,27 @@
 Counting.Officer,Region,Estimated.time.for.completing.the.verification,Estimated.time.for.completing.the.count,Datetime,GSSCode,MatchName
-Epping Forest,Eastern,2.00am , 3.30am,‘2016-06-24 03:30:00,E07000072,Epping Forest
+Epping Forest,Eastern,2.00am , 3.30am,2016-06-24 03:30:00,E07000072,Epping Forest
 West Tyrone,Northern Ireland,11:30pm,1:00am,2016-06-24 01:00:00,NA,NA
-Belfast East,Northern Ireland,12:00am,1:15am,‘2016-06-24 01:15:00,NA,NA
-Belfast South,Northern Ireland,12:00am,1:15am,‘2016-06-24 01:15:00,NA,NA
-Belfast West,Northern Ireland,11:45pm,1:15am,‘2016-06-24 01:15:00,NA,NA
-Belfast North,Northern Ireland,12:15am,1:30am,‘2016-06-24 01:30:00,NA,NA
-Lagan Valley,Northern Ireland,12:45am,1:30am,‘2016-06-24 01:30:00,NA,NA
-North Down,Northern Ireland,12:15am,1:30am,‘2016-06-24 01:30:00,NA,NA
-Strangford,Northern Ireland,12:15am,1:30am,‘2016-06-24 01:30:00,NA,NA
-Hartlepool,North East,11.30pm,1.00 -1.30am,‘2016-06-24 01:30:00,E06000001,Hartlepool
+Belfast East,Northern Ireland,12:00am,1:15am,2016-06-24 01:15:00,NA,NA
+Belfast South,Northern Ireland,12:00am,1:15am,2016-06-24 01:15:00,NA,NA
+Belfast West,Northern Ireland,11:45pm,1:15am,2016-06-24 01:15:00,NA,NA
+Belfast North,Northern Ireland,12:15am,1:30am,2016-06-24 01:30:00,NA,NA
+Lagan Valley,Northern Ireland,12:45am,1:30am,2016-06-24 01:30:00,NA,NA
+North Down,Northern Ireland,12:15am,1:30am,2016-06-24 01:30:00,NA,NA
+Strangford,Northern Ireland,12:15am,1:30am,2016-06-24 01:30:00,NA,NA
+Hartlepool,North East,11.30pm,1.00 -1.30am,2016-06-24 01:30:00,E06000001,Hartlepool
 Newcastle upon Tyne,North East,11.00pm,1.00am,2016-06-24 01:00:00,E08000021,Newcastle upon Tyne
 Oldham,North West,12.00am,1.00am,2016-06-24 01:00:00,E08000004,Oldham
 Swindon,South West,12.00am,1.00am,2016-06-24 01:00:00,E06000030,Swindon
 Islington,London,11.30pm-12.30am ,1.30-3.00am,2016-06-24 03:00:00,E09000019,Islington
-Eilean Siar,Scotland,1.00am,1.30am,‘2016-06-24 01:30:00,S12000013,Comhairle nan Eilean Siar
-Merthyr Tydfil,Wales,12.00am ,1.30am,‘2016-06-24 01:30:00,W06000024,Merthyr Tydfil
-North Hertfordshire,Eastern,11.30pm,1.30am,‘2016-06-24 01:30:00,E07000099,North Hertfordshire
-Salford,North West,10:00pm-12:00am,1.30am,‘2016-06-24 01:30:00,E08000006,Salford
-Stirling,Scotland,12.00am,1.30am,‘2016-06-24 01:30:00,S12000030,Stirling
-Stockport,North West,12.30am ,1.30am,‘2016-06-24 01:30:00,E08000007,Stockport
-Wigan,North West,1.30am ,1.30am,‘2016-06-24 01:30:00,E08000010,Wigan
-Isles of Scilly,South West,12.00am ,1.30am ,‘2016-06-24 01:30:00,E06000053,Isles of Scilly
-Denbighshire,Wales,12.00am ,1.45am,‘2016-06-24 01:45:00,W06000004,Denbighshire
+Eilean Siar,Scotland,1.00am,1.30am,2016-06-24 01:30:00,S12000013,Comhairle nan Eilean Siar
+Merthyr Tydfil,Wales,12.00am ,1.30am,2016-06-24 01:30:00,W06000024,Merthyr Tydfil
+North Hertfordshire,Eastern,11.30pm,1.30am,2016-06-24 01:30:00,E07000099,North Hertfordshire
+Salford,North West,10:00pm-12:00am,1.30am,2016-06-24 01:30:00,E08000006,Salford
+Stirling,Scotland,12.00am,1.30am,2016-06-24 01:30:00,S12000030,Stirling
+Stockport,North West,12.30am ,1.30am,2016-06-24 01:30:00,E08000007,Stockport
+Wigan,North West,1.30am ,1.30am,2016-06-24 01:30:00,E08000010,Wigan
+Isles of Scilly,South West,12.00am ,1.30am ,2016-06-24 01:30:00,E06000053,Isles of Scilly
+Denbighshire,Wales,12.00am ,1.45am,2016-06-24 01:45:00,W06000004,Denbighshire
 Foyle,Northern Ireland,11pm,12:30am,2016-06-24 00:30:00,NA,NA
 Sunderland,North East,11.30pm,12.30am,2016-06-24 00:30:00,E08000024,Sunderland
 Wandsworth,London,11.30pm  ,12.30am,2016-06-24 00:30:00,E09000032,Wandsworth

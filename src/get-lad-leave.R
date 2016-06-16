@@ -25,8 +25,9 @@ estimate  <- TRUE
 bes <- import("data/BES2015_W6_v1.2.sav")
 lu <- read.csv("data/bes_to_gss_lu.csv")
 bes <- merge(bes, lu, all.x = T, all.y = F)
+nrow(bes)
 bes <- subset(bes, !is.na(GSSCode))
-
+nrow(bes)
 ### Dependent variable:
 ###
 if (grepl("leave",basenm)) {
@@ -253,8 +254,8 @@ wtd.remain <- weighted.mean(newdata$remain, newdata$Eligible)
 ### How much do these differ from current national polling?
 ### average of last three polls:
 ### Leave
-leave.tgt <- mean(c(.41,.41,.47))
-remain.tgt <- mean(c(.41,.43,.44))
+leave.tgt <- 0.5
+remain.tgt <- 0.5
 
 add.to.leave <- leave.tgt - wtd.leave
 add.to.remain <- remain.tgt - wtd.remain
